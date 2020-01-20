@@ -52,6 +52,7 @@
 | Srija Pinnamaneni | Section 002       | srijp                | <https://srijp.github.io/Assignment1/> |
 | Justin Huang      | Section 002        | xinging-birds        | <https://xinging-birds.github.io/ofod/> |
 | Siting Lin         | Section003       | sitinglin99           | <https://sitinglin99.github.io/siting-repo-/>|
+| Omkar Purandare   | Section 004      |omkar-purandare        |<https://omkar-purandare.github.io/Omkar-Practice-Repo/>|
 
 <br>
 
